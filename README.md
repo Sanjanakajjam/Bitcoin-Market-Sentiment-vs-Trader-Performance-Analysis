@@ -204,6 +204,7 @@ This project demonstrates how data analytics can be used to understand the relat
 **Sanjana K**
 
 Bachelor of Engineering (BE)
+LinkedIn: https://linkedin.com/in/sanjana-kajjam
 
 Interested in Data Science, Analytics, Machine Learning, Artificial Intelligence, and Generative AI.
 
