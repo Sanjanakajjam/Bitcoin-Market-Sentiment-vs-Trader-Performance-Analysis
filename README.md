@@ -196,8 +196,6 @@ This project demonstrates how data analytics can be used to understand the relat
 <img width="827" height="776" alt="Screenshot 2026-06-05 200947" src="https://github.com/user-attachments/assets/7b8c5269-1953-48bd-8cd1-55a0bf3cf504" />
 <img width="1036" height="847" alt="Screenshot 2026-06-05 194331" src="https://github.com/user-attachments/assets/f6dc4631-ffb1-4f99-8531-80821a45323f" />
 <img width="1274" height="850" alt="Screenshot 2026-06-05 194349" src="https://github.com/user-attachments/assets/1f6427e4-36ee-490c-b39e-ef650748ae65" />
-<img width="1333" height="790" alt="Screenshot 2026-06-05 194403" src="https://github.com/user-attachments/assets/026eef1b-e7e9-4813-bb58-07c134b85370" />
-
 
 
 
