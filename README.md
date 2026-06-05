@@ -191,6 +191,15 @@ Bitcoin-Market-Sentiment-Analysis/
 This project demonstrates how data analytics can be used to understand the relationship between market sentiment and trading performance. By combining trading data with sentiment indicators, valuable insights can be generated to support more informed trading decisions and better risk management practices.
 
 ---
+<img width="1071" height="813" alt="Screenshot 2026-06-05 194321" src="https://github.com/user-attachments/assets/d2b751b2-af50-464f-902f-4296cf7e035e" />
+<img width="1031" height="846" alt="Screenshot 2026-06-05 200917" src="https://github.com/user-attachments/assets/75d3b192-de77-420c-8691-b50e7024a42b" />
+<img width="827" height="776" alt="Screenshot 2026-06-05 200947" src="https://github.com/user-attachments/assets/7b8c5269-1953-48bd-8cd1-55a0bf3cf504" />
+<img width="1036" height="847" alt="Screenshot 2026-06-05 194331" src="https://github.com/user-attachments/assets/f6dc4631-ffb1-4f99-8531-80821a45323f" />
+<img width="1274" height="850" alt="Screenshot 2026-06-05 194349" src="https://github.com/user-attachments/assets/1f6427e4-36ee-490c-b39e-ef650748ae65" />
+<img width="1333" height="790" alt="Screenshot 2026-06-05 194403" src="https://github.com/user-attachments/assets/026eef1b-e7e9-4813-bb58-07c134b85370" />
+
+
+
 
 ## Author
 
